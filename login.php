@@ -115,10 +115,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
      
 
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-     
-    <a href="reset-password.php" class="font-weight-bold nav-link text-light my-2 my-sm-0" >Reset Your Password</a>
-    </form>
+   
     <form class="form-inline my-2 my-lg-0">
      
     <a class="font-weight-bold nav-link text-light" href="register.php">Sign Up</a>
@@ -153,7 +150,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
             <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
-            <p>Forgot password? <a href="register.php">Reset Password</a>.</p>
+    
         </form>
         </div>
     </div>

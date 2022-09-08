@@ -122,10 +122,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
      
 
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-     
-    <a href="reset-password.php" class="font-weight-bold nav-link text-light my-2 my-sm-0" >Reset Your Password</a>
-    </form>
+   
     <form class="form-inline my-2 my-lg-0">
      
     <a class="font-weight-bold nav-link text-light" href="login.php">Log in</a>
